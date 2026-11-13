@@ -378,7 +378,7 @@ Repository URL:
 
 ```text
 
-PASTE YOUR GITHUB REPOSITORY URL HERE
+Eleazar-Gonzalez/CampusEquipmentAPI
 
 ```
 
